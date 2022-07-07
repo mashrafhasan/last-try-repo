@@ -1,3 +1,26 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url("donation13.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
 h1 {
-    color: cornflowerblue;
+    font-size: 80px;
+    position: sticky;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+.text-size {
+    color: aliceblue;
+    text-align: center;
+    text
+}
+
+section {
+    padding: 20%;
 }
